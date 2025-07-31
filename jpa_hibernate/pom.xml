@@ -7,6 +7,10 @@
     <groupId>com.techcamps.cadastros</groupId>
     <artifactId>administrativo-api</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <artifactId>administrativo-api</artifactId>
+    <name>Projeto Admin Demo</name>
+    <description>Projeto Administrativo para cadastros de Clientes e Produtos usando Hibernate e JPA</description>
+
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
